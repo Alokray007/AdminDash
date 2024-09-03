@@ -141,6 +141,15 @@ header {
     margin-bottom: 10px;
 }
 
+#add-btn {
+    background-color: #fff;
+    margin-bottom: 10px;
+}
+
+#add-btn:hover {
+    background-color: #da8e8e;
+}
+
 .form-group button[type="submit"] {
     grid-column: 1 / 3;
     background-color: #3498db;
